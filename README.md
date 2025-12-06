@@ -100,4 +100,4 @@ Found a bug? Have an idea? Feel free to:
 
 ---
 
-Made with ❤️ | Powered by Web Speech API
+Powered by Web Speech API
