@@ -49,9 +49,7 @@ open index.html
 
 ```
 speechpad/
-├── index.html    # HTML structure
-├── script.js     # Speech Recognition logic
-├── style.css     # Styling
+├── index.html    # HTML, CSS & JS 
 └── README.md     # This file
 ```
 
